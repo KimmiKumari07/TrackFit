@@ -2,6 +2,17 @@
 
 Welcome to the **Personal Fitness Tracker**! This Streamlit-based web application allows users to predict the calories burned during exercise based on their personal details. The app leverages machine learning models to provide accurate predictions and helps users track their fitness journey over time.
 
+## 🖥️ Screenshots
+
+### Home Page
+![Home Page](https://github.com/KimmiKumari07/TrackFit/blob/main/asserts/snap%201.png?raw=true)
+
+
+### Prediction Result
+![Prediction](https://github.com/KimmiKumari07/TrackFit/blob/main/asserts/snap%202.png?raw=true)
+
+---
+
 ## 🚀 Features
 - Input BMI directly or calculate it from height and weight.
 - Predict calories burned using **SVM, Logistic Regression, or Random Forest** models.
