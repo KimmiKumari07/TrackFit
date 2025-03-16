@@ -5,11 +5,11 @@ Welcome to the **Personal Fitness Tracker**! This Streamlit-based web applicatio
 ## 🖥️ Screenshots
 
 ### Home Page
-![Home Page](https://github.com/KimmiKumari07/TrackFit/blob/main/asserts/snap%201.png?raw=true)
+![Home Page](https://github.com/KimmiKumari07/TrackFit/blob/main/assets/snap%201.png?raw=true)
 
 
 ### Prediction Result
-![Prediction](https://github.com/KimmiKumari07/TrackFit/blob/main/asserts/snap%202.png?raw=true)
+![Prediction](https://github.com/KimmiKumari07/TrackFit/blob/main/assets/snap%202.png?raw=true)
 
 ---
 
